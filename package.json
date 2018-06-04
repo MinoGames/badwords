@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/web-mech/badwords.git"
+    "url": "git://github.com/Mistplay/badwords"
   },
   "keywords": [
     "curse",
@@ -20,7 +20,7 @@
     "filter"
   ],
   "dependencies": {
-    "badwords-list": "git+https://github.com/MinoGames/badwords-list.git#mino"
+    "badwords-list": "git+https://github.com/Mistplay/badwords-list"
   },
   "devDependencies": {
     "mocha": "1.14.0",
